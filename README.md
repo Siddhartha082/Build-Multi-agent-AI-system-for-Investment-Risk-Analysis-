@@ -1,4 +1,3 @@
-# Build-Multi-agent-AI-system-for-Investment-Risk-Analysis-
 
 ![image](https://github.com/Siddhartha082/Build-Multi-agent-AI-system-for-Investment-Risk-Analysis-/assets/110781138/8d89efae-ac05-4896-8d36-66e8b7df33b6)
 
